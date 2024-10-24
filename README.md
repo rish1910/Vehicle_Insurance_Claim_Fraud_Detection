@@ -1,5 +1,4 @@
 # Vehicle-Insurance-Claim-Fraud-Detection
-# Vehicle Insurance Claim Fraud Detection
 
 ## Overview
 This project aims to identify fraudulent vehicle insurance claims using machine learning techniques. The dataset contains various features related to the claims, allowing the model to learn patterns associated with fraud.
